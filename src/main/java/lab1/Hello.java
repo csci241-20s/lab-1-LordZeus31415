@@ -3,7 +3,7 @@ package lab1;
 public class Hello {
   public static void main(String[] args) {
 	  for(String s : args){
-   		 System.out.println("Hello, " + s );
+   		 System.out.println("Hello, " + s + "!");
 	}
   }
 }
